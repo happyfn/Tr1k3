@@ -1,0 +1,1 @@
+g++ -DUNIX main_yamlcpp.cpp -std=c++11 -I../../include/ -L../../lib -lyaml-cpp -o test_yamlcpp
